@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936865766600",
+    "project_id": "kongsiri-10335",
+    "storage_bucket": "kongsiri-10335.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936865766600:android:c405cb83bdcd9f6cabd9fd",
+        "android_client_info": {
+          "package_name": "com.example.testmb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALEfT6ptl3yGnxckN066u3ido8VBloKcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
